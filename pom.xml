@@ -37,8 +37,8 @@
 </dependency>
 </dependencies>
 <scm>
-<connection>scm:svn:http://35.154.245.119:8081/subversion/</connection>
-<developerConnection>scm:svn:http://35.154.245.119:8081/subversion/</developerConnection>
+<connection>scm:svn:http://192.168.33.11:8081/subversion/</connection>
+<developerConnection>scm:svn:http://192.168.33.11:8081/subversion/</developerConnection>
 </scm>
 <distributionManagement>
 <repository>
@@ -50,7 +50,7 @@ http://35.154.245.119:8081/repository/package/
 <snapshotRepository>	
 <id>snapshots</id>
 <url>
-http://35.154.245.119:8081/repository/snapshots/
+http://35.154.245.119:8081/repository/snapshot/
 </url>
 </snapshotRepository>
 </distributionManagement>
